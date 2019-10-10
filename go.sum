@@ -1,0 +1,4 @@
+github.com/cbednarski/hostess v0.3.0 h1:pMhjUSoN3NAcJxig5LGn/GJzGSBqZY5wcp65IfkT/Bo=
+github.com/cbednarski/hostess v0.3.0/go.mod h1:912HgEmCKmVUFef/ZIixI9/DIyVcPIPYC7/K7xn91rQ=
+github.com/codegangsta/cli v1.20.0 h1:iX1FXEgwzd5+XN6wk5cVHOGQj6Q3Dcp20lUeS4lHNTw=
+github.com/codegangsta/cli v1.20.0/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
