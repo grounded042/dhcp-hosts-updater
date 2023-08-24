@@ -81,7 +81,7 @@ func (e *edgeOSHostsProvider) getStaticHosts() map[string]net.IP {
 	return toReturn
 }
 
-func newEdgeOSHostsProvider(address, username, password string) (externalHostsProvider, error) {
+func newEdgeOSHostsProvider(address, username, password string) (*edgeOSHostsProvider, error) {
 	jar, err := cookiejar.New(nil)
 	if err != nil {
 		return nil, err
